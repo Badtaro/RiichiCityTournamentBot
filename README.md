@@ -6,3 +6,5 @@ My !readme isn't exactly super great/maybe out of date... Since that was Klorofi
 I'll maybe update it. Just know you should look at the config file first then the requests folder.
 
 After that go to index.js and start digging, you'll mainly use requests, riichicitybot, and discordbot
+
+I left out the .vscode folder. I don't it did anything. 
