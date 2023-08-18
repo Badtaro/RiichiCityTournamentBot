@@ -1,0 +1,1962 @@
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "a",
+		"paiPuNotId": "12",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "香草愛巧克力",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 819002883
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Kujira",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 613212382
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Cerisela",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 614106893
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "cscannibal",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 114599039
+		}
+		],
+		"remark": "",
+		"roomID": "a12",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "b",
+		"paiPuNotId": "2",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Navitas",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 817573641
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Jowzer",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 514800672
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Shirimasu",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 819623190
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "cunny",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 619668952
+		}
+		],
+		"remark": "",
+		"roomID": "2b",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "c",
+		"paiPuNotId": "3",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Heckie",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 613632602
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Cxxxx",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 214322018
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "qetc",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 612361307
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "hue",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 415582643
+		}
+		],
+		"remark": "",
+		"roomID": "3c",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "4",
+		"paiPuNotId": "d",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "thursday",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 612898230
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Riamu Yumemi",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 816285307
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "RabbiRiichi",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 619307033
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "TakaMarth",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 819432528
+		}
+		],
+		"remark": "",
+		"roomID": "4d",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "5",
+		"paiPuNotId": "e",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Yasten",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 614685651
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "gamesoftrobo",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 612862025
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "sweets",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 814712504
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "AI",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 614639451
+		}
+		],
+		"remark": "",
+		"roomID": "5e",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "6",
+		"paiPuNotId": "f",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Olek",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 319220338
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Toastuy",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 816882116
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Nuoplup",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 314494721
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "bodan",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 617284296
+		}
+		],
+		"remark": "",
+		"roomID": "6f",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "7",
+		"paiPuNotId": "g",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "SuliDerDuli",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 617717605
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Umandsf",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 412426916
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Pancreas",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 314695398
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Ｋｉｒａ",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 619554891
+		}
+		],
+		"remark": "",
+		"roomID": "7g",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "8",
+		"paiPuNotId": "h",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Hitochan",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 814322830
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "ReiwaMagi",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 614494541
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Farcon",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 614599368
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "LightPinkYoshi",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 612927369
+		}
+		],
+		"remark": "",
+		"roomID": "8h",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "9",
+		"paiPuNotId": "i",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Exelion",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 619668966
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "MizuiroMira",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 819974238
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "StockSoul",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 618112628
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Ranzak",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 616285898
+		}
+		],
+		"remark": "",
+		"roomID": "9i",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "10",
+		"paiPuNotId": "j",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Ziiix",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 319268372
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "tofsilver",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 614599648
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Furanchizuko2",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 618112407
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Dubrissaud",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 615582267
+		}
+		],
+		"remark": "",
+		"roomID": "10j",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "11",
+		"paiPuNotId": "k",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Zen",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 619432110
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "KillerHUD",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 618542997
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "janbo",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 617696573
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Ipomoea",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 411292544
+		}
+		],
+		"remark": "",
+		"roomID": "11k",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "12",
+		"paiPuNotId": "l",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "bobland",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 313680836
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Sakomi",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 812743347
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Muri",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 616682170
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Luggs",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 412256171
+		}
+		],
+		"remark": "",
+		"roomID": "12l",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "13",
+		"paiPuNotId": "m",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Vainist",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 111034159
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "crisiscannibal",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 114599039
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Vertani",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 814914647
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Shaft3d",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 616627400
+		}
+		],
+		"remark": "",
+		"roomID": "13m",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "14",
+		"paiPuNotId": "n",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "YuiMikka",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 611562803
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "gurkan645",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 319955619
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Rizeng",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 612165612
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Cofii",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 811106564
+		}
+		],
+		"remark": "",
+		"roomID": "14n",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "15",
+		"paiPuNotId": "o",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "katino",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 817503473
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Neilfrize",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 414322213
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "BeefMcMeat",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 617942708
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "LordXp",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 819335164
+		}
+		],
+		"remark": "",
+		"roomID": "15o`",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "16",
+		"paiPuNotId": "p",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Pastelette",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 312862130
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "SilentRain",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 414712838
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Amigo",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 813668102
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Hilboughton",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 816285711
+		}
+		],
+		"remark": "",
+		"roomID": "16p",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "17",
+		"paiPuNotId": "q",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Lursel",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 613517827
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Toru",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 6146911008
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "AngeloTheWizard",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 814565491
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Tanyaocat",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 812089356
+		}
+		],
+		"remark": "",
+		"roomID": "17q",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "18",
+		"paiPuNotId": "r",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "KiasNassa",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 614106971
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "IdeponG",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 814565129
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Benoit",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 613517914
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "SmaMan",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 612092633
+		}
+		],
+		"remark": "",
+		"roomID": "18r",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "19",
+		"paiPuNotId": "s",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Pio",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 611094093
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Shirou97",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 612927899
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Sushijunkie",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 317666009
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Oldice",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 611736522
+		}
+		],
+		"remark": "",
+		"roomID": "19s",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "20",
+		"paiPuNotId": "t",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Eile",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 418672105
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "KOT10N",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 115895566
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Tsukichi",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 614565275
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Jabberwock",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 616413143
+		}
+		],
+		"remark": "",
+		"roomID": "20t",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "21",
+		"paiPuNotId": "u",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Nobore",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 816285996
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "MacNCheese",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 314712263
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Mythic",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 619919162
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "DaikaNyan",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 612579889
+		}
+		],
+		"remark": "",
+		"roomID": "21u",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "22",
+		"paiPuNotId": "v",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "ScarletCelestial",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 315540321
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Chiral",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 612927294
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Kurly",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 812079033
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Misder",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 817157463
+		}
+		],
+		"remark": "",
+		"roomID": "22v",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "23",
+		"paiPuNotId": "w",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "YNTsubasa",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 618432631
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Hajnel",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 816435997
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "fallensoul Nemo",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 614687654
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "ScarfTails",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 612399447
+		}
+		],
+		"remark": "",
+		"roomID": "23w",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "24",
+		"paiPuNotId": "x",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Richie Ippatsu",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 812079222
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Legless",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 817772978
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "phox",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 617788963
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Exorcist",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 314915490
+		}
+		],
+		"remark": "",
+		"roomID": "24x",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "25",
+		"paiPuNotId": "y",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Sylveon",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 615630474
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Feverish",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 614691059
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "FlyingHigh",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 612361973
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Yarth",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 619522280
+		}
+		],
+		"remark": "",
+		"roomID": "25y",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "26",
+		"paiPuNotId": "z",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "JuFiN",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 415552160
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "AshenSilverwolf",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 617939619
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Maria",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 611302874
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Lambdadelta",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 513027921
+		}
+		],
+		"remark": "",
+		"roomID": "26z",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "27",
+		"paiPuNotId": "aa",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "DemoKracker",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 613662601
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Juqu",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 614685707
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "chocofowl",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 811302423
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Watora",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 811302423
+		}
+		],
+		"remark": "",
+		"roomID": "27aa",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "28",
+		"paiPuNotId": "bb",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Watora",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 411673190
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Liebesfreud",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 619897954
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Siegwulff",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 616773518
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Fax Celestis",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 611562259
+		}
+		],
+		"remark": "",
+		"roomID": "28bb",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "29",
+		"paiPuNotId": "cc",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "KingBaiter",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 817284409
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Ahrlett",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 816388375
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "TN",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 616070186
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Intergi",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 614712042
+		}
+		],
+		"remark": "",
+		"roomID": "29cc",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "30",
+		"paiPuNotId": "dd",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "MONT",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 811841899
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "sharonpehxl",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 614563334
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "園田賢ファン",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 612495634
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Kress",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 619782623
+		}
+		],
+		"remark": "",
+		"roomID": "30dd",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "31",
+		"paiPuNotId": "ee",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "wrath_ss",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 614791043
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Kuraj",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 814622348
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Mironty",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 811563778
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "NightKev",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 812399743
+		}
+		],
+		"remark": "",
+		"roomID": "31ee",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "32",
+		"paiPuNotId": "ff",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Muwhaha",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 612495539
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Yujki",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 612495416
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Zen007",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 211742985
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "ジンクシー",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 613620638
+		}
+		],
+		"remark": "",
+		"roomID": "32ff",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "33",
+		"paiPuNotId": "gg",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "香草愛巧克力",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 819002883
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Vocal",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 611673569
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Cerisela",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 614106893
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Mistfern",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 611742590
+		}
+		],
+		"remark": "",
+		"roomID": "33gg",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "34",
+		"paiPuNotId": "hh",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "ydo22",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 617830718
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "noona",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 617151039
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "TONG",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 117151818
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Saymon600",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 119727242
+		}
+		],
+		"remark": "",
+		"roomID": "34hh",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "35",
+		"paiPuNotId": "ii",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "SuperStarfox64",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 616140452
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "henM",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 612293209
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Legius",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 614599726
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Miisuya",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 811241317
+		}
+		],
+		"remark": "",
+		"roomID": "35ii",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "36",
+		"paiPuNotId": "ll",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Scrubss",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 819243254
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Khami",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 112399904
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Kcab",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 811184410
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "MSG",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 812495851
+		}
+		],
+		"remark": "",
+		"roomID": "36ll",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	},
+	{
+		"endTime": 1677121380,
+		"gamePlay": 1002,
+		"isClear": false,
+		"isCollect": false,
+		"isMiddlePause": false,
+		"paiPuId": "37",
+		"paiPuNotId": "kk",
+		"playerCount": 4,
+		"players": [
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "MSG",
+			"points": 39100,
+			"roleID": 10001,
+			"skinID": 0,
+			"userId": 812495851
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "niconiconii",
+			"points": 26300,
+			"roleID": 10012,
+			"skinID": 0,
+			"userId": 615441039
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Rilasha",
+			"points": 19900,
+			"roleID": 10002,
+			"skinID": 1000202,
+			"userId": 817157198
+		},
+		{
+			"identity": 0,
+			"isExistYiMan": false,
+			"nickname": "Kcab",
+			"points": 14700,
+			"roleID": 10004,
+			"skinID": 0,
+			"userId": 811184410
+		}
+		],
+		"remark": "",
+		"roomID": "37kk",
+		"round": 2,
+		"stageType": 0,
+		"stageRound": "Qualifiers"
+	}
+  

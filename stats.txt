@@ -1,0 +1,187 @@
+to do:
+	-add tenpai rejection stats
+		-what tiles they would be waiting on
+		-what tiles they had
+		-what tile they had to discard
+
+
+
+
+
+
+Players[user_id] = main player object
+    **total stats for all games played**
+
+    .games[int] = array of objects
+        **Stats for that game**
+    
+        .hands[int] = array of objects
+            **stats for that hand**
+
+
+
+Overarching final object output
+
+Players[user_id]
+    .user_id = user id string
+    .game_name = name string
+    .hands_count = dealership count
+    .hanchan_count = dealership count
+    .seat_count = amount of hands played in a seat [E,S,W,N]
+    .games_won = total amount of hanchans won
+    .hands_won = total amount of hands won
+    .ron_count = total amount of ron called
+    .tsumo_count = total amount of tsumo called
+    .chii_count = total amount of chii called
+    .pon_count = total amount of pon called
+    .kan_count = total amount of kan called [0] = total, [1] = open kan, [2] = added kan, [3] = closed kan
+    .riichi_count = riichi count
+    .riichi_won_count = riichi won count
+    .tenpai_count = tenpai count
+    .tenpai_reject = how many times this player rejected tenpai
+    .yakitori_count = yakitori count
+    .furiten_count = furiten tenpai count
+    .no_yaku_count = no yaku tenpai count
+    .atozuke_count = atozuke tenpai count
+    .dora_count = dora won, stored in array [0] = regular dora, [1] = aka dora, [2] = ura dora, [3] nuki dora
+    .riichi_bets = riichi bet balance, stores how much player earned/lost on riichi bets alone
+    .teru = top consecutive wins
+    .toki = riichi ippatsu tsumo count
+    .saki = rinshan kaihou count
+    .kuro = top hanchan dora count
+    .dice_rolls = array of dice rolls
+
+    [nested objects]
+    .time = array with timestamps per game per round
+        [
+            [0] = timestamps
+            [1] = eventid
+            [2] = sub event data
+        ],
+        [...] etc...
+    .riichi_turns = array with turns until riichi declared
+        [10, 7, 4, (...)] does not show games where riichi was not declared
+    .winning_tiles = array with tiles declared ron/tsumo on
+        [10, 14, 24, (...)] saves tile id as riichi city format (hex)
+    .score_progression = nested array with games and the score progression in that game.
+        [[25000, 23000, 45000, (...)], [(...)]]
+    .rounds = array of round stats
+    .yaku = object with total amount of each yaku scored
+    .yaku_games = array of nested yaku objects
+    
+game player object - this object only contains data from one round (one hand)
+gamePlayers[user_id] =
+    .user_id = user id string
+    .game_name = name string
+    .game_paifu = game log unique identifier
+    .round_name = array of game rounds in text
+    .round_number = array of game round in number (this is just a normal integer and means nothing much by itself)
+    .dice = array of dice rolls for splitting wall
+    .seat_count = array of seat numbers 0 = east, 1 = south, 2 = west, 3 = north
+    .hands_won = total wins
+    .game_won = 0 or 1 depending if the player won this game
+    .placements = array of placements
+    .ron_count = array of tiles called ron upon
+    .tsumo_count = array of tiles called tsumo upon
+    .chii_count = array of chii tiles called upon in one game
+    .pon_count = array of pon tiles called upon in one game
+    .kan_count = array of kan tiles called upon in one game, [0] = total, [1] = open kan, [2] = added kan, [3] = closed kan
+    .riichi = amount of riichi won this game
+    .riichi_called = amont of riichi declared this game
+    .riichi_declared = array of turns riichi was declared
+    .tenpai = total tenpais achieved in game (max 1 per hand)
+    .tenpai_at_draw = total tenpai at draw in game
+    .tenpai_turn = array of turn tenpai was reached, default value is null. will always be the earliest tenpai, even if tenpai is folded
+    .tenpai_reject = how many times this player rejected tenpai in game
+    .yakitori = flag that riichi city has baked in, denotes whether the player has won any hands yet (if enabled)
+    .furiten = amount of furiten at round end in game
+    .no_yaku = amount of no yaku at round end in game
+    .atozuke  = amount of atozuke at round end in game
+    .dora = array of dora won, nested in arrays [0] = regular dora, [1] = aka dora, [2] = ura dora, [3] nuki dora
+    .toki = total amount of riichi ippatsu tsumo achieved this game
+    .saki = total amount of rinshan kaihou achieved this game
+    .teru = win streak this game
+    .win_tile = array of tiles this player won on
+    .scores = array of scores this game
+
+        [nested objects]
+    *Hand related*
+    .starting_hand = array with tiles the player started with this round
+    .final_hand = array with tiles the player had at the end of the round
+    .draws = array with tiles drawn this game
+    .rinshan_draws = array with tiles drawn from kan or nuki dora
+    .discards = array with tiles discarded this game
+    .final_waits = array with waits at the end of the round
+    .all_waits = array with all waits over the course of the round
+    .could_call_tiles = array with all calls that could be made [0] = chii, [1] = pon, [2] = kan, [4] = ron, [5] = tsumo
+
+    .time = array with timestamps of this round
+    [
+        [0] = timestamps
+        [1] = eventid
+        [2] = sub event data
+    ]
+    .move_timer = array with how much time remains of the move timer
+    .wait_buffer = used as a cache to store tenpai info. defaults to enpty array: []
+
+
+
+
+Round player object - this object only contains data from one round (one hand)
+roundPlayers[user_id] =
+    .user_id = user id string
+    .game_name = name string
+    .game_paifu = game log unique identifier
+    .round_name = game round in text
+    .round_number = game round in number (this is just a normal integer and means nothing much by itself)
+    .dice = dice rolls for splitting wall
+    .seat = seat number 0 = east, 1 = south, 2 = west, 3 = north
+    .win = 0 or 1 depending if the player won
+    .ron = 0 or 1 depending if the player declared ron
+    .tsumo = 0 or 1 depending if the player declared tsumo
+    .chii = amount of chii declared in this round
+    .pon = amount of pon declared in this round
+    .kan = amount of kan declared in this round, [0] = total, [1] = open kan, [2] = added kan, [3] = closed kan
+    .riichi = 0 or 1 depending if the player won with riichi
+    .riichi_called = 0 or 1 depending if player is in riichi
+    .riichi_declared = turn riichi was declared, default value is null
+    .tenpai = 0 or 1 depending if the player was in tenpai at any point in the round
+    .tenpai_at_draw = 0 or 1 depending if the player was tenpai at the end of the round (ryuukoku or if someone won)
+    .tenpai_turn = turn tenpai was reached, default value is null. will always be the earliest tenpai, even if tenpai is folded
+    .tenpai_reject = how many times this player rejected tenpai
+    .yakitori = flag that riichi city has baked in, denotes whether the player has won any hands yet (if enabled)
+    .furiten = 0 or 1 depending if the player was in furiten
+    .no_yaku = 0 or 1 depending if the player ended in tenpai without a yaku
+    .atozuke  = 0 or 1 depending if the player ended with a atozuke wait (regardless if won)
+	.turn_1win = boolean denoting whether this player was tenpai after initial draws (eligable for tenhou/chihou/renhou)
+    .dora = dora won, stored in array [0] = regular dora, [1] = aka dora, [2] = ura dora, [3] nuki dora
+    .toki = denotes whether riichi ippatsu tsumo was achieved this round
+    .saki = denotes whether rinshan kaihou was achieved this round
+    .on_streak = boolean that denotes whether the player is currently on a win streak
+    .win_tile = tile this player won on, defaults to null
+    .start_score = the score this player started with this round
+
+        [nested objects]
+    *Hand related*
+    .starting_hand = array with tiles the player started with this round
+    .final_hand = array with tiles the player had at the end of the round
+    .draws = array with tiles drawn this game
+    .rinshan_draws = array with tiles drawn from kan or nuki dora
+    .discards = array with tiles discarded this game
+    .final_waits = array with waits at the end of the round
+    .all_waits = array with all waits over the course of the round
+    .could_call_tiles = array with all calls that could be made [0] = chii, [1] = pon, [2] = kan, [4] = ron, [5] = tsumo
+
+    .time = array with timestamps of this round
+    [
+        [0] = timestamps
+        [1] = eventid
+        [2] = sub event data
+    ]
+    .move_timer = array with how much time remains of the move timer
+    .wait_buffer = used as a cache to store tenpai info. defaults to enpty array: []
+
+
+
+
+
