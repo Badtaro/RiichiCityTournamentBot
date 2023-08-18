@@ -1,0 +1,1 @@
+This folder contains the game logs in separate json files labeled with their paifu ID
