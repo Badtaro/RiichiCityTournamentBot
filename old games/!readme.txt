@@ -1,0 +1,1 @@
+This folder isn't used in the bot, but contains several gamelogs which you can use for analyzing the logformat, more info about that is located in /scripts/rcGameLog.js
